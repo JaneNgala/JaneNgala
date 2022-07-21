@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Data Analysis with Power BI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JaneNgala](https://github.com/JaneNgala)
+- 👨‍💻 All of my projects are available [Here](https://github.com/JaneNgala)
 
-- 📫 How to reach me **jkash909@gmail.com**
+- 📫 How to reach me via [mail](**jkash909@gmail.com**)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
