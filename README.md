@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcutewallpaper.org%2F21%2Fdata-science-wallpaper%2FData-Science-vs-Data-Analytics-Everything-You-Should-Know.png&imgrefurl=https%3A%2F%2Fcutewallpaper.org%2F21%2Fdata-science-wallpaper%2Fview-page-21.html&tbnid=7KAw-8lOEs8G2M&vet=12ahUKEwiu5Ly2n4n5AhVM04UKHWUaAygQMyhOegUIARCDAQ..i&docid=ek7Rk_rnSx8bJM&w=615&h=300&q=data%20scientist%20linkedin%20banner&hl=en&ved=2ahUKEwiu5Ly2n4n5AhVM04UKHWUaAygQMyhOegUIARCDAQ)](https://janengala.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeo0l18UHl0y00_OFyOw6WKgUcj04UGhPxvQ&usqp=CAU)](https://janengala.io/)
 <h1 align="center">Hi 👋, I'm Jane Ngala</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz49pzG7CLExHaaewN5QE9HJHvxJGAlW2ZMw&usqp=CAU"
