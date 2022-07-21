@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeo0l18UHl0y00_OFyOw6WKgUcj04UGhPxvQ&usqp=CAU)]
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeo0l18UHl0y00_OFyOw6WKgUcj04UGhPxvQ&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Jane Ngala</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz49pzG7CLExHaaewN5QE9HJHvxJGAlW2ZMw&usqp=CAU"
