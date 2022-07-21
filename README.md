@@ -1,5 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeo0l18UHl0y00_OFyOw6WKgUcj04UGhPxvQ&usqp=CAU)](https://janengala.io/)
-<h1 align="center">Hi 👋, I'm Jane Ngala</h1>
+[![MasterHead](https://user-images.githubusercontent.com/73166515/180141132-6d8b7f78-4977-4ebc-940c-7b8d2d1dab7f.png)](https://janengala.io/)
 <h3 align="center">A passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz49pzG7CLExHaaewN5QE9HJHvxJGAlW2ZMw&usqp=CAU"
 
