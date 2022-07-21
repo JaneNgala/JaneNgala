@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/JaneNgala)
 
-- 📫 How to reach me via [mail](**jkash909@gmail.com**)
+- 📫 How to reach me [gmail](**jkash909@gmail.com**)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
