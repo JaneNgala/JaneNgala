@@ -20,10 +20,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-![janengala's GitHub stats](https://github-readme-stats.vercel.app/api?username=janengala&show_icons=true&theme=radical)
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=janengala&show_icons=true&locale=en&layout=compact" alt="janengala" /> <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=janengala&" alt="janengala" />
-</p>
-</p>
+| <a href="https://github.com/janengala/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=janengala&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="janengala's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janengala&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
+ <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=janengala&layout=compact&theme=radical&hide_border=true" alt="janengala" /></p>
+
 
 
 
