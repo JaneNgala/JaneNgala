@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/73166515/180141778-6afa25c9-62d1-417d-b8e5-732c8c333045.png)
-<h3 align="center">A passionate Data Scientist</h3>
+<h1 align="center">A passionate Data Scientist</h1>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz49pzG7CLExHaaewN5QE9HJHvxJGAlW2ZMw&usqp=CAU"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janengala&label=Profile%20views&color=0e75b6&style=flat" alt="janengala" /> </p>
