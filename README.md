@@ -22,4 +22,4 @@
 
 ![janengala's GitHub stats](https://github-readme-stats.vercel.app/api?username=janengala&show_icons=true&theme=radical)
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=janengala&show_icons=true&locale=en&layout=compact" alt="janengala" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janengala&" alt="janengala" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=janengala&" alt="janengala" /></p>
